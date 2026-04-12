@@ -1,0 +1,21 @@
+# Output files
+vpn.txt
+vpn_base64.txt
+vpn_renamed.txt
+vpn_renamed_base64.txt
+bobi_vpn.txt
+bobi_vpn_base64.txt
+bobi_vpn_lite.txt
+vpn_report.json
+countries/
+
+# GeoIP database
+GeoLite2-Country.mmdb
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

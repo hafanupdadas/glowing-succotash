@@ -1,0 +1,79 @@
+name: V2Go Checker (Xray-core Binary)
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Каждые 3 часа
+  workflow_dispatch:  # Ручной запуск
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Download GeoIP Database
+        run: |
+          echo "📥 Downloading GeoIP database..."
+          wget -q https://raw.githubusercontent.com/6Kmfi6HP/maxmind/main/GeoLite2-Country.mmdb
+          ls -lh GeoLite2-Country.mmdb
+      
+      - name: Run V2Go Checker
+        run: |
+          echo "🚀 Starting V2Go Checker with Xray-core..."
+          chmod +x scripts/v2go-checker
+          ./scripts/v2go-checker
+        timeout-minutes: 30
+      
+      - name: Check Results
+        run: |
+          echo "📊 Checking generated files..."
+          ls -lh vpn*.txt bobi_vpn*.txt vpn_report.json 2>/dev/null || echo "Some files missing"
+          
+          if [ -f vpn.txt ]; then
+            WORKING_COUNT=$(wc -l < vpn.txt)
+            echo "✅ Working keys: $WORKING_COUNT"
+          else
+            echo "⚠️ No working keys found"
+          fi
+          
+          if [ -d countries ]; then
+            COUNTRY_COUNT=$(ls -1 countries/*.txt 2>/dev/null | wc -l)
+            echo "🌍 Country files: $COUNTRY_COUNT"
+          fi
+      
+      - name: Commit Results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Add all output files
+          git add vpn.txt vpn_renamed.txt vpn_base64.txt vpn_renamed_base64.txt 2>/dev/null || true
+          git add bobi_vpn.txt bobi_vpn_base64.txt bobi_vpn_lite.txt 2>/dev/null || true
+          git add vpn_report.json 2>/dev/null || true
+          git add countries/ 2>/dev/null || true
+          
+          # Commit if there are changes
+          if git diff --staged --quiet; then
+            echo "✅ No changes to commit"
+          else
+            TIMESTAMP=$(date +'%Y-%m-%d %H:%M UTC')
+            git commit -m "🔄 Auto-update VPN keys [$TIMESTAMP]"
+            git push
+            echo "✅ Changes pushed successfully"
+          fi
+      
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: vpn-check-results
+          path: |
+            vpn*.txt
+            bobi_vpn*.txt
+            vpn_report.json
+            countries/
+          retention-days: 7
