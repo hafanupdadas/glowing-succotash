@@ -50,18 +50,19 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # Add all output files
-          git add vpn.txt vpn_renamed.txt vpn_base64.txt vpn_renamed_base64.txt 2>/dev/null || true
-          git add bobi_vpn.txt bobi_vpn_base64.txt bobi_vpn_lite.txt 2>/dev/null || true
-          git add vpn_report.json 2>/dev/null || true
-          git add countries/ 2>/dev/null || true
+          # Add all output files (force add even if in .gitignore)
+          git add -f vpn.txt vpn_renamed.txt vpn_base64.txt vpn_renamed_base64.txt 2>/dev/null || true
+          git add -f bobi_vpn.txt bobi_vpn_base64.txt bobi_vpn_lite.txt 2>/dev/null || true
+          git add -f vpn_report.json 2>/dev/null || true
+          git add -f countries/ 2>/dev/null || true
           
           # Commit if there are changes
           if git diff --staged --quiet; then
             echo "✅ No changes to commit"
           else
             TIMESTAMP=$(date +'%Y-%m-%d %H:%M UTC')
-            git commit -m "🔄 Auto-update VPN keys [$TIMESTAMP]"
+            WORKING_COUNT=$(wc -l < vpn.txt 2>/dev/null || echo "0")
+            git commit -m "🔄 Auto-update VPN keys [$TIMESTAMP] - $WORKING_COUNT working keys"
             git push
             echo "✅ Changes pushed successfully"
           fi

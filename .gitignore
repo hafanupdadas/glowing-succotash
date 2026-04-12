@@ -1,15 +1,8 @@
-# Output files
-vpn.txt
-vpn_base64.txt
-vpn_renamed.txt
-vpn_renamed_base64.txt
-bobi_vpn.txt
-bobi_vpn_base64.txt
-bobi_vpn_lite.txt
-vpn_report.json
-countries/
+# Output files (committed by GitHub Actions)
+# These files are generated and committed automatically
+# Don't manually edit them - they will be overwritten
 
-# GeoIP database
+# GeoIP database (downloaded by workflow)
 GeoLite2-Country.mmdb
 
 # Temporary files
