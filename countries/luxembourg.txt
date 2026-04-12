@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsfCfh7ogQm9iaVZQTiDigJQgTHV4ZW1ib3VyZwrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://54d371df-2c2b-40e0-b91a-3f21ba13bd53@lu01.encryptapp.org:443?security=reality&type=grpc&headerType=none&authority=&serviceName=&flow=&mode=gun&sni=5post-gate.x5.ru&fp=qq&pbk=9wU6QMJ3oApheC5WqVO0vjuS2B4IgUb0CWXD-_rmOgE&sid=#🇱🇺 Luxembourg | WorkTitans B.V. 1
+vless://54d371df-2c2b-40e0-b91a-3f21ba13bd53@lu01.encryptapp.org:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=9wU6QMJ3oApheC5WqVO0vjuS2B4IgUb0CWXD-_rmOgE&sni=5post-gate.x5.ru#🇱🇺 Luxembourg | WorkTitans B.V. 1

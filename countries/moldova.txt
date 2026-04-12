@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://9768f619-9505-42d2-bd21-0d2be1de125d@md-alex-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rbc.ru&fp=qq&security=reality&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&sid=58a6be9762c769f2&packetEncoding=xudp&headerType=none#🇲🇩 Moldova | Alexhost SRL 1
 vless://cee980e6-783c-5433-a236-3dd0a078ba14@94.103.0.26:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=uXOHooV6ghndsDMEUBiPTDfG43ycaS8kEjgd56vT8SU&sid=ab38&sni=www.kinopoisk.ru&path=/fmuMh1BtvbLa2W&host=www.kinopoisk.ru&mode=auto#🇲🇩 Moldova | Global Connectivity So... 1
-vless://TMG_1e142de9db6@94.103.0.26:443?echfq=none&fp=chrome&type=xhttp&sni=www.kinopoisk.ru&sid=ab38&mode=auto&path=%2FfmuMh1BtvbLa2W&security=reality&encryption=none&pbk=uXOHooV6ghndsDMEUBiPTDfG43ycaS8kEjgd56vT8SU&host=www.kinopoisk.ru&spx=%2F&allowinsecure=0#🇲🇩 Moldova | Global Connectivity So... 2
+vless://TMG_1e142de9db6@94.103.0.26:443?encryption=none&security=reality&sni=www.kinopoisk.ru&fp=chrome&pbk=uXOHooV6ghndsDMEUBiPTDfG43ycaS8kEjgd56vT8SU&sid=ab38&spx=%2F&type=xhttp&host=www.kinopoisk.ru&path=%2FfmuMh1BtvbLa2W&mode=auto#🇲🇩 Moldova | Global Connectivity So... 2
