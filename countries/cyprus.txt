@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDeXBydXMK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru166.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=ru166.mechvpn.online&alpn=h3%2Ch2#🌍 Cyprus | H2nexus LTD 1
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru205.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&alpn=h3%2Ch2%2Chttp/1.1#🌍 Cyprus | H2nexus LTD 2
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru205.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3%2Ch2%2Chttp/1.1#🌍 Cyprus | H2nexus LTD 1
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru166.mechvpn.online:443?security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=ru166.mechvpn.online&alpn=h3,h2#🌍 Cyprus | H2nexus LTD 2
