@@ -98,4 +98,7 @@ https://raw.githubusercontent.com/prominbro/KfWL/refs/heads/main/KfWL.txt
 https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/configs/url_work.txt
 https://raw.githubusercontent.com/prominbro/sub/refs/heads/main/212.txt
 https://text-host.ru/raw/vfg-free-5
+https://gist.github.com/DestroyST6767/50af50221ca1858ba2084efc0f524fbc.txt
+https://github.com/AskAnyQuestion/bypassWhitelist/raw/main/whitelist.txt
+https://raw.githubusercontent.com/RUNoName/V.O.I.D-VPN_Bypass/refs/heads/main/configs/url_work.txt
 
