@@ -101,4 +101,5 @@ https://text-host.ru/raw/vfg-free-5
 https://gist.github.com/DestroyST6767/50af50221ca1858ba2084efc0f524fbc.txt
 https://github.com/AskAnyQuestion/bypassWhitelist/raw/main/whitelist.txt
 https://raw.githubusercontent.com/RUNoName/V.O.I.D-VPN_Bypass/refs/heads/main/configs/url_work.txt
+https://github.com/ewecrow78-gif/Gh0st_WhiteList/raw/main/configs/alive.txt
 
