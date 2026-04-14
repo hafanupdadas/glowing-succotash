@@ -56,6 +56,14 @@ jobs:
           git add -f vpn_report.json 2>/dev/null || true
           git add -f countries/ 2>/dev/null || true
           
+          # Add Russia-friendly subscription (RKN filtered)
+          if [ -f bobi_vpn_russia.txt ]; then
+            git add -f bobi_vpn_russia.txt bobi_vpn_russia_base64.txt
+            echo "✅ Added Russia subscription files"
+          else
+            echo "⚠️  Russia subscription not found"
+          fi
+          
           # Commit if there are changes
           if git diff --staged --quiet; then
             echo "✅ No changes to commit"
