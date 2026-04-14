@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDMg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://fb796166-54f6-53dc-b2a1-0f0f65ade47d@cz.farkil.shop:8443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=Gk86SPlETjL3qO5-R4BOtyD7UEUijrZomjeMrmYEF3c&sid=fe91cf37&sni=pay.mironline.ru&path=/xhttp&mode=stream-one#🇸🇮 Slovenia | WorkTitans B.V. 1
-vless://90523ac8-5fac-4f07-bd8f-8c4f4a4eb5fa@146.185.197.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=8ba1725c92aa028b&spx=%2F#🇸🇮 Slovenia | WorkTitans B.V. 2
-vless://aa5c3c69-5f75-425c-a477-443eb5ca6634@146.185.197.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.yandex.ru&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=91d363fa707d2487&spx=%2F#🇸🇮 Slovenia | WorkTitans B.V. 3
