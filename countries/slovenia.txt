@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
 vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@cz.farkil.shop:8443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=Gk86SPlETjL3qO5-R4BOtyD7UEUijrZomjeMrmYEF3c&sid=fe91cf37&sni=ads.x5.ru&path=/xhttp&mode=stream-one#🇸🇮 Slovenia | WorkTitans B.V. 1
-vless://e231c40a-8606-5ba8-9fcc-0aafaafbc186@cz.farkil.shop:8443?type=xhttp&security=reality&sni=ads.x5.ru&pbk=Gk86SPlETjL3qO5-R4BOtyD7UEUijrZomjeMrmYEF3c&sid=fe91cf37&fp=chrome&mode=stream-one&path=/xhttp&concurrency=4#🇸🇮 Slovenia | WorkTitans B.V. 2
