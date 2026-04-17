@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://c2a04bad-66d5-4000-b464-6c7b9c625928@mle.tunnelguard.ru:443?type=xhttp&security=tls&encryption=none&fp=chrome&sni=mle.tunnelguard.ru&host=mle.tunnelguard.ru&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&alpn=h2%2Chttp/1.1#🇲🇩 Moldova | WorkTitans B.V. 1
+vless://73d00f79-34ea-49b0-8dd0-95728d364733@moldova.xperia-gaming.site:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=moldova.xperia-gaming.site&fp=chrome&security=reality&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=&packetEncoding=xudp#🇲🇩 Moldova | WorkTitans B.V. 1
+vless://c2a04bad-66d5-4000-b464-6c7b9c625928@mle.tunnelguard.ru:443?type=xhttp&security=tls&encryption=none&fp=chrome&sni=mle.tunnelguard.ru&host=mle.tunnelguard.ru&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&alpn=h2%2Chttp/1.1#🇲🇩 Moldova | WorkTitans B.V. 2
