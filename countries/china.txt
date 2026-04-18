@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@219.76.13.177:443?encryption=none&security=tls&sni=sn1.skylee5.cloudns.ch&type=ws&host=sn1.skylee5.cloudns.ch&path=%2Fproxyip%3Dproxyip.cmliussss.net#🌍 China | 263 Global Communications 1
+vmess://eyJhZGQiOiIxMTQuMTMyLjYxLjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiYS4xODkuY24iLCJpZCI6ImI1ZmI2YjhjLWY2ZjgtNDU4ZC1hZDc1LWZkMzZmNTUyNzQ3NCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoidjJnbyB8IPCfjI0gQ04gfCBWTUVTUyB8IDM1NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🌍 China | China Internet Network... 1
