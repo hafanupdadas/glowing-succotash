@@ -1,8 +1,0 @@
-#profile-update-interval: 1
-#profile-title: 🌍 BobiVPN Syria
-#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
-#support-url: https://bobivpn.netlify.app/
-#profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBTeXJpYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
-
-vless://f421e224-9cd7-4704-8454-19cd6d510881@144.31.130.162:8443?security=reality&sni=sirr.fastload.site&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🌍 Syria | H2nexus LTD 1

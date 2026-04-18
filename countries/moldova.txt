@@ -6,5 +6,5 @@
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?security=reality&sni=hcaptcha.com&fp=chrome&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&type=grpc&packetEncoding=xudp&encryption=none#🇲🇩 Moldova | Alexhost SRL 1
-vless://f421e224-9cd7-4704-8454-19cd6d510881@144.31.131.241:8443?security=reality&sni=mold.speedload.online&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇲🇩 Moldova | H2nexus LTD 1
+vless://3ced4bd2-fbf7-4ee5-9adf-3e1517d294a1@45.84.1.123:443?security=reality&encryption=none&pbk=YFfz76RnULla7CbfuMpkCmaUF3RVhu5JRYb6HAR95Ak&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4b#🇲🇩 Moldova | Global Connectivity So... 1
 vless://c2a04bad-66d5-4000-b464-6c7b9c625928@mle.tunnelguard.ru:443?type=xhttp&security=tls&encryption=none&fp=chrome&sni=mle.tunnelguard.ru&host=mle.tunnelguard.ru&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&alpn=h2%2Chttp/1.1#🇲🇩 Moldova | WorkTitans B.V. 1
