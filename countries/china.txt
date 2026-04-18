@@ -5,4 +5,4 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+MjSBCb2JpVlBOIOKAlCBDaGluYQrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vmess://eyJhZGQiOiJobi54bi0td2xxdzFzd3JqMDRqdTU2ZC5jb20iLCJhaWQiOjAsImhvc3QiOiJ0bXMuZGluZ3RhbGsuY29tIiwiaWQiOiJmOWRkZWZjNS1kMTIxLTQ4NmYtOWUyZi0wYzJjZDFhM2RlY2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJ2MmdvIHwg8J+MjSBDTiB8IFZNRVNTIHwgNDU4OCIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🌍 China | Hangzhou Alibaba Adver... 1
+vless://f421e224-9cd7-4704-8454-19cd6d510881@144.31.50.117:8443?security=reality&sni=ch.federal-usa.com&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🌍 China | H2nexus LTD 1
