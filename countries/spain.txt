@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+#announce: base64:8J+HqvCfh7ggQm9iaVZQTiDigJQgU3BhaW4K4pqhIDQg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
+vless://aae59c28-a4e7-46bd-8fa5-a239e8cfe0b1@es.plus-hit.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=es.plus-hit.ru&fp=random&security=reality&pbk=M-0dwwcFDBGdbQvFUJGH3V_t246TA4I_mEE8OpCRzUU&sid=b4d9a71f22e34ac8&packetEncoding=xudp#🇪🇸 Spain | AP Interactive Solutions 1
+vless://3a6cdcf4-903c-45e5-b019-ca7c6d768972@sp5.frostmotiveseed.net:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sp.frostmotiveseed.net&fp=chrome&security=reality&pbk=bi62EZwl9gIqJVHDKcMNnFvNXpU7kZ5JkrepKmwJFAI&sid=&packetEncoding=xudp#🇪🇸 Spain | FDCservers.net 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#🇪🇸 Spain | ONEPROVIDER 1
 vless://ecc97810-557a-44ef-9957-ba078d0ac414@45.12.150.145:15470?encryption=none&fp=chrome&pbk=Io59wtB0RP01ty3SWv8Hn-z84vrckaEPVJi6SRBqFXY&security=reality&sid=e08a28&sni=yahoo.com&type=tcp#🇪🇸 Spain | WorkTitans B.V. 1
