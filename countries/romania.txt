@@ -3,11 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+Ht/Cfh7QgQm9iaVZQTiDigJQgUm9tYW5pYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🇷🇴 Romania | Dotro Telecom SRL 1
-vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&path=%2F&security=none&type=ws#🇷🇴 Romania | Freakhosting LTD 1
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#🇷🇴 Romania | Freakhosting LTD 2
 vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#🇷🇴 Romania | Green Floid 1
 vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&sid=c906f73d3ba8211f&sni=www.alibaba.com#🇷🇴 Romania | Netrouting 1
-vless://8b243490-4ac1-4b9b-9e1d-7c7787693dc2@95.163.183.144:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=Oc4VtwpdXGT4jlQZVEEgTTjeBx97uJ0sON2ek629plE&sid=59&spx=%2F#🇷🇴 Romania | WorkTitans B.V. 1
