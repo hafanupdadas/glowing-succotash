@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HpvCfh7ogQm9iaVZQTiDigJQgQXVzdHJhbGlhCuKaoSA0INC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
 
-vless://9bc43d33-6d90-420d-869a-6d4f69b28c4c@212.81.47.248:4398?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#🇦🇺 Australia | Datacamp 1
 vless://7a169e43-ff85-4572-9843-ba7207d07319@192.9.162.122:1443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk&sid=dde50f55d81116&sni=swdist.apple.com&path=&host=&serviceName=&quicSecurity=none#🇦🇺 Australia | Oracle 1
-vmess://eyJhZGQiOiI0NS4xNS4xODUuMTciLCJob3N0IjoiNDUuMTUuMTg1LjE3IiwiaWQiOiJjNTAzYTk2YS1hMmY1LTQ4NDctYTMxZi0yMGMxN2VjZjNiZTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6ODAsInBzIjoidjJnbyB8IPCfjI0gQ1kgfCBWTUVTUyB8IDUxMTYiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇦🇺 Australia | WorkTitans B.V. 1
+vless://bba65652-b714-4832-ba62-cbf861ea2dbe@192.9.164.54:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=chrome&insecure=1&sni=musicstatus.tv.apple.com&pbk=9oOtS_WWQMj6h4L72o1Lbu9ze_lmW_2PQy4diKpBjQI&sid=ba9c05e6cce34e2e#🇦🇺 Australia | Oracle 2
+vmess://eyJhZGQiOiI0NS4xNS4xODUuMTciLCJob3N0IjoiNDUuMTUuMTg1LjE3IiwiaWQiOiJjNTAzYTk2YS1hMmY1LTQ4NDctYTMxZi0yMGMxN2VjZjNiZTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6ODAsInBzIjoidjJnbyB8IPCfjI0gQ1kgfCBWTUVTUyB8IDM1NDYiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🇦🇺 Australia | WorkTitans B.V. 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.15.185.70:990#🇦🇺 Australia | WorkTitans B.V. 2
