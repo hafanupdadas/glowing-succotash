@@ -5,7 +5,7 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@193.233.253.73:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=deadbeef42&sni=www.apple.com#🇩🇰 Denmark | Global Connectivity So... 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇩🇰 Denmark | SERVICE 1
+vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@193.233.253.73:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=deadbeef42#🇩🇰 Denmark | Global Connectivity So... 1
+vless://aa3c2eec-3946-0154-88a9-47b58a6bc5a7@158.160.231.77:443?type=tcp&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&flow=xtls-rprx-vision#🇩🇰 Denmark | M247 Europe 1
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=/#🇩🇰 Denmark | Webdock.io ApS 1
-vless://0fa13297-7784-48e1-9c19-308c8b440edb@176.108.247.44:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rhL4R8tBOs5UnuwptbdegPycyuxGn-wvurb4eRYNSgY&sid=596e1781a03304&sni=dk21.strelkavpn.com#🇩🇰 Denmark | WorkTitans B.V. 1
+vless://0fa13297-7784-48e1-9c19-308c8b440edb@176.108.247.44:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=dk21.strelkavpn.com&pbk=rhL4R8tBOs5UnuwptbdegPycyuxGn-wvurb4eRYNSgY&sid=596e1781a03304#🇩🇰 Denmark | WorkTitans B.V. 1
