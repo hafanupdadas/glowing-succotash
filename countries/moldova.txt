@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?encryption=none&security=reality&sni=hcaptcha.com&fp=chrome&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&type=grpc#🇲🇩 Moldova | Alexhost SRL 1
+vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?encryption=none&fp=chrome&packetEncoding=xudp&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&security=reality&sni=hcaptcha.com&type=grpc#🇲🇩 Moldova | Alexhost SRL 1
 vless://4036688f-4e87-502d-82e0-3f0203a6f004@94.103.2.194:443?encryption=none&type=xhttp&security=reality&host=business.max.ru&path=%2FD0Pq4fZn6obwQj&mode=auto&extra=null&fp=chrome&sni=business.max.ru&pbk=CxSsLf7XPhNjhqp0QBOI699kkudkiJCoCVfqqXSllyU&sid=18ec&spx=%2F#🇲🇩 Moldova | GIR SER 1
 vless://TMG_e25feb28e2a@94.103.2.194:443?echfq=none&fp=chrome&type=xhttp&sni=business.max.ru&sid=18ec&mode=auto&path=%2FD0Pq4fZn6obwQj&security=reality&encryption=none&pbk=CxSsLf7XPhNjhqp0QBOI699kkudkiJCoCVfqqXSllyU&host=business.max.ru&spx=%2F&allowinsecure=0#🇲🇩 Moldova | GIR SER 2
