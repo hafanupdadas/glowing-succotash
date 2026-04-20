@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://15da07d5-7f72-018e-9bd1-e122e9698d24@hub.needforspeed.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=53uSdzNGhzfnYHDo36vX49LZo2XD87yNnIQIL-8Sp04&sid=7f7fa27a3ab45d3b&sni=hub.needforspeed.online#🇰🇿 Kazakhstan | LLP Internet company F... 1
 vless://951c7521-7158-4978-b82c-2736d4f21044@meowalmaty.nethcloud.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&sni=wikihow.com#🇰🇿 Kazakhstan | Newserverlife 1
+vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&sni=yahoo.com&fp=chrome&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001&type=tcp&path=%2f#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
