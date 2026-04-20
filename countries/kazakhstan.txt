@@ -3,11 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://cb1691ad-49cc-46a9-b734-91c109200c32@90.156.230.108:47030?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&sni=api-maps.yandex.ru#🇰🇿 Kazakhstan | JSC "TIMEWEB" 1
-vless://e08d2d8b-173f-49b3-8867-fb20f3cd26bd@90.156.248.187:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=api.gosuslugi.ru&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=cd0b563c7e0ea754#🇰🇿 Kazakhstan | Koshi region 1
-vless://15da07d5-7f72-018e-9bd1-e122e9698d24@hub.needforspeed.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hub.needforspeed.online&fp=random&security=reality&pbk=53uSdzNGhzfnYHDo36vX49LZo2XD87yNnIQIL-8Sp04&sid=7f7fa27a3ab45d3b&packetEncoding=xudp#🇰🇿 Kazakhstan | LLP Internet company F... 1
-vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6InYyZ28gfCDwn4ew8J+HvyBLWiB8IFZNRVNTIHwgMzI1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#🇰🇿 Kazakhstan | Newserverlife 1
-vless://951c7521-7158-4978-b82c-2736d4f21044@meowalmaty.nethcloud.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=wikihow.com&fp=chrome&security=reality&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&packetEncoding=xudp#🇰🇿 Kazakhstan | Newserverlife 2
-vless://e08d2d8b-173f-49b3-8867-fb20f3cd26bd@kz.x8lab.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=cd0b563c7e0ea754&sni=api.gosuslugi.ru#🇰🇿 Kazakhstan | VK Tech Kazakhstan LLP 1
+vless://15da07d5-7f72-018e-9bd1-e122e9698d24@hub.needforspeed.online:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=53uSdzNGhzfnYHDo36vX49LZo2XD87yNnIQIL-8Sp04&sid=7f7fa27a3ab45d3b&sni=hub.needforspeed.online#🇰🇿 Kazakhstan | LLP Internet company F... 1
+vless://951c7521-7158-4978-b82c-2736d4f21044@meowalmaty.nethcloud.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&sni=wikihow.com#🇰🇿 Kazakhstan | Newserverlife 1
