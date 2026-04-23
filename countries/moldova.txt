@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsvCfh6kgQm9iaVZQTiDigJQgTW9sZG92YQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&sni=hcaptcha.com#🇲🇩 Moldova | Alexhost SRL 1
-vless://4036688f-4e87-502d-82e0-3f0203a6f004@94.103.2.194:443?encryption=none&type=xhttp&security=reality&host=business.max.ru&path=/D0Pq4fZn6obwQj&mode=auto&extra=null&fp=chrome&sni=business.max.ru&pbk=CxSsLf7XPhNjhqp0QBOI699kkudkiJCoCVfqqXSllyU&sid=18ec&spx=/#🇲🇩 Moldova | GIR SER 1
+vless://4036688f-4e87-502d-82e0-3f0203a6f004@94.103.2.194:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=CxSsLf7XPhNjhqp0QBOI699kkudkiJCoCVfqqXSllyU&sid=18ec&sni=business.max.ru&path=/D0Pq4fZn6obwQj&mode=auto#🇲🇩 Moldova | GIR SER 1
+vless://TMG_e25feb28e2a@94.103.2.194:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=CxSsLf7XPhNjhqp0QBOI699kkudkiJCoCVfqqXSllyU&sid=18ec&sni=business.max.ru&path=/D0Pq4fZn6obwQj&host=business.max.ru&mode=auto&spx=/#🇲🇩 Moldova | GIR SER 2
