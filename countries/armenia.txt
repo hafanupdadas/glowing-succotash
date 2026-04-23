@@ -6,5 +6,5 @@
 #announce: base64:8J+HpvCfh7IgQm9iaVZQTiDigJQgQXJtZW5pYQrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#🇦🇲 Armenia | 365.partners INC 1
-vless://75807638-6f19-0898-ae08-38492ee85c88@178.72.181.134:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-other-1.firstvideocdn.ru#🇦🇲 Armenia | WorkTitans B.V. 1
-vless://946cbe56-5e60-4d04-ace7-6e105a19d566@am.wireguardvpnbotik.com:789?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=OktonrOrLlwWen5x-XIz0oq1lUxhE5Y2QvAeL8-klEs&sid=a58139e90400f90d&sni=images.apple.com#🇦🇲 Armenia | WorkTitans B.V. 2
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇦🇲 Armenia | Proitlab 1
+vless://946cbe56-5e60-4d04-ace7-6e105a19d566@am.wireguardvpnbotik.com:789?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=OktonrOrLlwWen5x-XIz0oq1lUxhE5Y2QvAeL8-klEs&sid=a58139e90400f90d&sni=images.apple.com#🇦🇲 Armenia | WorkTitans B.V. 1

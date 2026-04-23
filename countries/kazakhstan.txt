@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6InYyZ28gfCDwn4ew8J+HvyBLWiB8IFZNRVNTIHwgMzM5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#🇰🇿 Kazakhstan | Newserverlife 1
-vless://2b7f78aa-3eb9-4fba-9a90-d56682c5e17f@46.247.43.135:4443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=google.com&pbk=BsEyhjR17kFLubYZ54twQWx1sh4wfFS3hmPvBd9K8HQ&sid=da1e1d03b8d190da#🇰🇿 Kazakhstan | PS Internet Company 1
-vless://2b7f78aa-3eb9-4fba-9a90-d56682c5e17f@194.32.142.166:4443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=google.com&pbk=BsEyhjR17kFLubYZ54twQWx1sh4wfFS3hmPvBd9K8HQ&sid=da1e1d03b8d190da#🇰🇿 Kazakhstan | PS Internet Company LLP 1
-vless://2b7f78aa-3eb9-4fba-9a90-d56682c5e17f@kz.vmelectronics.ru:4443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=BsEyhjR17kFLubYZ54twQWx1sh4wfFS3hmPvBd9K8HQ&sid=da1e1d03b8d190da&sni=google.com#🇰🇿 Kazakhstan | PS Internet Company LLP 2
-vless://2b7f78aa-3eb9-4fba-9a90-d56682c5e17f@185.47.167.91:4443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=google.com&pbk=BsEyhjR17kFLubYZ54twQWx1sh4wfFS3hmPvBd9K8HQ&sid=da1e1d03b8d190da#🇰🇿 Kazakhstan | VK Tech Kazakhstan LLP 1
+vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6InYyZ28gfCDwn4ew8J+HvyBLWiB8IFZNRVNTIHwgMTU0OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==#🇰🇿 Kazakhstan | Newserverlife 1
