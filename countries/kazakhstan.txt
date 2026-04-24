@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6InYyZ28gfCDwn4ew8J+HvyBLWiB8IFZNRVNTIHwgMzE5OCIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==#🇰🇿 Kazakhstan | Newserverlife 1
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv31.towersflowerss.com:443?security=none&fp=randomized&type=ws&path=/&packetEncoding=xudp&encryption=none#🇰🇿 Kazakhstan | PS Internet Company LLP 1
+vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjNoLWthemFraHN0YW4xLjA5dnBuLmNvbSIsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoidjJnbyB8IPCfh7Dwn4e/IEtaIHwgVk1FU1MgfCA1MzAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#🇰🇿 Kazakhstan | Newserverlife 1
+vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv31.towersflowerss.com:443?type=ws&security=none&encryption=none&fp=randomized#🇰🇿 Kazakhstan | PS Internet Company LLP 1
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@2.56.177.219:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=50YV33F0uOrBN7ugFb8LFnSoe3FC305uGBOf2Hpn3A0&sid=a1b4e8d2&sni=www.nur.kz#🇰🇿 Kazakhstan | WorkTitans B.V. 1
