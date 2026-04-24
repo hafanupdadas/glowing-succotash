@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HuPCfh64gQm9iaVZQTiDigJQgU2xvdmVuaWEK4pqhIDIg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://7a231cfb-2b76-42a8-bc0d-a42eea7b9a19@146.185.197.91:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=fb&sni=ads.yandex.ru&spx=/#🇸🇮 Slovenia | WorkTitans B.V. 1
-vless://55a6b2f3-bbb4-45db-a058-43de8887e869@146.185.197.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.yandex.ru&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=fb&spx=%2F#🇸🇮 Slovenia | WorkTitans B.V. 2
+vless://f7e282d2-eb92-4cbf-8212-7dca9cee7ff0@146.185.197.91:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=6ff9&sni=vashsender.ru&spx=/#🇸🇮 Slovenia | WorkTitans B.V. 1
+vless://2a4d823e-8005-4478-b54b-1baa5dde667d@146.185.197.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.yandex.ru&pbk=yJZmZ7VTuIUmUNa4YSWOfPf7iKjVXe1-13KZQ-LZVno&sid=763ee12a&spx=%2F#🇸🇮 Slovenia | WorkTitans B.V. 2

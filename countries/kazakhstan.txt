@@ -3,11 +3,9 @@
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://bobivpn.netlify.app/
 #profile-web-page-url: https://bobivpn.netlify.app/
-#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+#announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNCDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.5.46:8880?encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&path=%2F&security=none&type=ws#🇰🇿 Kazakhstan | JSC Transtelecom 1
-vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6InYyZ28gfCDwn4ew8J+HvyBLWiB8IFZNRVNTIHwgMjg1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#🇰🇿 Kazakhstan | Newserverlife 1
-vless://fe517777-f835-4e97-9efa-784e2ecf2200@91.147.105.241:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=kz.great-server-list.co.uk#🇰🇿 Kazakhstan | PS Internet Company LLP 1
-vless://fe517777-f835-4e97-9efa-784e2ecf2200@kz.great-server-list.co.uk:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kz.great-server-list.co.uk&fp=chrome&packetEncoding=xudp#🇰🇿 Kazakhstan | PS Internet Company LLP 2
-vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@www.visa.com.sg:2052?encryption=none&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev&path=%2F&security=none&type=ws#🇰🇿 Kazakhstan | WorkTitans B.V. 1
+vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6InYyZ28gfCDwn4ew8J+HvyBLWiB8IFZNRVNTIHwgMjM2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#🇰🇿 Kazakhstan | Newserverlife 1
+vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjNoLWthemFraHN0YW4xLjA5dnBuLmNvbSIsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoidjJnbyB8IPCfh7Dwn4e/IEtaIHwgVk1FU1MgfCA5NDc0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#🇰🇿 Kazakhstan | Newserverlife 2
+vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.5.46:8880?encryption=none&security=none&type=ws&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=%2F#🇰🇿 Kazakhstan | WorkTitans B.V. 1
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@2.56.177.219:443?encryption=none&flow=xtls-rprx-vision&fp=random&headerType=none&pbk=50YV33F0uOrBN7ugFb8LFnSoe3FC305uGBOf2Hpn3A0&security=reality&sid=a1b4e8d2&sni=www.nur.kz&type=tcp#🇰🇿 Kazakhstan | WorkTitans B.V. 2
