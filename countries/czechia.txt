@@ -5,9 +5,9 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqPCfh78gQm9iaVZQTiDigJQgQ3plY2hpYQrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@150.241.121.66:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=ch-1.bexum.fun&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&sid=5dd747e98058584b#🇨🇿 Czechia | Baxet Group 1
 trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@ch-2.bexum.fun:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ch-2.bexum.fun#🇨🇿 Czechia | Mastersoft S.R.L. 1
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@czu.ksnodes.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=czu.ksnodes.net&alpn=http%2F1.1%2Ch2&flow=xtls-rprx-vision&insecure=0#🇨🇿 Czechia | Mastersoft S.R.L. 2
 vless://43488128-319e-f480-64ea-0acdc712e2a8@86.54.82.239:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xzCEjrybgdtiyOYNKgEAEWzHjvsE2Pkj198_Ch1gZ2U&sid=41427aa565e28984&sni=store.steampowered.com&path=&host=&serviceName=&quicSecurity=none#🇨🇿 Czechia | ONEPROVIDER 1
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@87.236.146.32:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#🇨🇿 Czechia | SmartApe OU 1
-vless://035945b0-c539-4f90-aec7-446f705f04eb@51.250.111.194:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=7ibca15-im9GR65wrb0N-ij1qdUftpcxTwNxHn9HPUw&sid=6ba85179e30d4fc2#🇨🇿 Czechia | WorkTitans B.V. 1
-vless://07758b4f-daa0-48fe-bfc0-2d87e9bdab7e@51.250.111.194:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=7ibca15-im9GR65wrb0N-ij1qdUftpcxTwNxHn9HPUw&sid=6ba85179e30d4fc2#🇨🇿 Czechia | WorkTitans B.V. 2
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@87.236.146.32:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#🇨🇿 Czechia | SmartApe OU 1
+vless://2dc481bb-b5f5-42d4-ab4e-bfa192968ca3@51.250.111.194:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=7ibca15-im9GR65wrb0N-ij1qdUftpcxTwNxHn9HPUw&sid=6ba85179e30d4fc2#🇨🇿 Czechia | WorkTitans B.V. 1
+vless://620a40a0-b50c-4116-8e0b-ea8ef634b703@51.250.111.194:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=7ibca15-im9GR65wrb0N-ij1qdUftpcxTwNxHn9HPUw&sid=6ba85179e30d4fc2#🇨🇿 Czechia | WorkTitans B.V. 2
