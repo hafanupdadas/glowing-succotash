@@ -5,6 +5,6 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://c8b6167c-615a-53ec-ae23-87054336339e@81.17.159.63:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=XDBvi6U6TnvlyuCdsIUtQ_yjrjyTEvr0KLHvuo-pF0Q&sid=cf53a10184e17998&sni=www.kinopoisk.ru&path=/Vu-Nf1cGVrkTt3qJrz&host=www.kinopoisk.ru&mode=auto#🇩🇰 Denmark | Global Connectivity So... 1
-vless://TMG_b2c82aeaf61@81.17.159.63:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=XDBvi6U6TnvlyuCdsIUtQ_yjrjyTEvr0KLHvuo-pF0Q&sid=cf53a10184e17998&sni=www.kinopoisk.ru&path=/Vu-Nf1cGVrkTt3qJrz&host=www.kinopoisk.ru&mode=auto&spx=/#🇩🇰 Denmark | Global Connectivity So... 2
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=none&path=%2F#🇩🇰 Denmark | Webdock.io ApS 1
+vless://TMG_b2c82aeaf61@81.17.159.63:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=XDBvi6U6TnvlyuCdsIUtQ_yjrjyTEvr0KLHvuo-pF0Q&sid=cf53a10184e17998&sni=www.kinopoisk.ru&path=/Vu-Nf1cGVrkTt3qJrz&host=www.kinopoisk.ru&mode=auto&spx=/#🇩🇰 Denmark | Global Connectivity So... 1
+vless://c8b6167c-615a-53ec-ae23-87054336339e@81.17.159.63:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=XDBvi6U6TnvlyuCdsIUtQ_yjrjyTEvr0KLHvuo-pF0Q&sid=cf53a10184e17998&sni=www.kinopoisk.ru&path=/Vu-Nf1cGVrkTt3qJrz&host=www.kinopoisk.ru&mode=auto#🇩🇰 Denmark | Global Connectivity So... 2
+vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?security=&type=ws&path=/&encryption=none#🇩🇰 Denmark | Webdock.io ApS 1
