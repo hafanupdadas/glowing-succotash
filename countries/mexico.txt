@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: 🌍 BobiVPN Mexico
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBNZXhpY28K4pqhIDEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+
+vmess://eyJhZGQiOiIyMTYuMjM4Ljg2LjE1OCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5MGJlMjE0ZC0wNDhjLTRlYTItYTYwMi1iOGU0ZDRlNTFlMzYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNDQ2MCIsInBzIjoidjJnbyB8IPCfjI0gTVggfCBWTUVTUyB8IDM1MzgiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🌍 Mexico | The Constant Company 1
