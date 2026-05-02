@@ -5,5 +5,5 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqfCfh7AgQm9iaVZQTiDigJQgRGVubWFyawrimqEgMiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://a10040c6-5747-5e17-9667-172a0632cb7b@85.90.196.247:8443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=kQFtef3o6l4nu-dCMtTXk6NfGOYb61ceDWU45e8dY24&sid=1d32cf09&sni=ads.x5.ru&path=%2Fxhttp&mode=stream-one#🇩🇰 Denmark | M247 Europe SRL 1
+vless://a10040c6-5747-5e17-9667-172a0632cb7b@85.90.196.247:8443?type=xhttp&security=reality&fp=chrome&pbk=kQFtef3o6l4nu-dCMtTXk6NfGOYb61ceDWU45e8dY24&sid=1d32cf09&sni=ads.x5.ru&path=/xhttp&mode=stream-one#🇩🇰 Denmark | M247 Europe SRL 1
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?encryption=none&flow=&path=%2F&type=ws#🇩🇰 Denmark | Webdock.io ApS 1

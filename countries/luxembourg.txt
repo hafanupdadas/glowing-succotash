@@ -1,0 +1,10 @@
+#profile-update-interval: 1
+#profile-title: 🇱🇺 BobiVPN Luxembourg
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:8J+HsfCfh7ogQm9iaVZQTiDigJQgTHV4ZW1ib3VyZwrimqEgMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+
+vmess://eyJhZGQiOiJkaWdpdGFsb2NlYW4uY29tIiwiYWlkIjoiMTYiLCJhbHBuIjoiaDMsaDIsaHR0cC8xLjEiLCJmcCI6InJhbmRvbSIsImhvc3QiOiJub2RlLWNoLTEubXliZS5zdCIsImlkIjoiZjBkOGQ4M2ItNjA0MC00MzI3LWJkMWItNTA4ZTczODM4OGM2IiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6IjQ0MyIsInBzIjoidjJnbyB8IFZNRVNTIHwgMTg2OCIsInNjeSI6ImF1dG8iLCJzbmkiOiJub2RlLWNoLTEubXliZS5zdCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🇱🇺 Luxembourg | FranTech Solutions 1
+trojan://nodes-5930bd1f@node-ch-1.v2sv.top:8443?security=tls&sni=node-ch-1.v2sv.top&type=tcp#🇱🇺 Luxembourg | FranTech Solutions 2
+vless://f0d8d83b-6040-4327-bd1b-508e738388c6@node-ch-1.v2sv.top:2053?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=b85e293fa1&sni=digitalocean.com&spx=/#🇱🇺 Luxembourg | FranTech Solutions 3
