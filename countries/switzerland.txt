@@ -5,10 +5,10 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HqPCfh60gQm9iaVZQTiDigJQgU3dpdHplcmxhbmQK4pqhIDcg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
 
-vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@web.maysevlive.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.maysevlive.ru#🇨🇭 Switzerland | Green Floid 1
-vless://ab2f5b91-9cfd-4989-af25-353d4d69372c@45.141.119.180:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=ign.dev#🇨🇭 Switzerland | Julian Achter 1
+vless://0780b3f0-4eef-4bc8-b01e-a329cdc48b83@45.140.205.215:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=telegavpn.com&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇨🇭 Switzerland | Global Connectivity So... 1
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sid=a1ab5a56bc42&sni=sw1tzerl4nd.gxcore.net#🇨🇭 Switzerland | MHost 1
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119?#🇨🇭 Switzerland | Private Layer INC 1
-vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@5.182.36.90:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sid=0c80cc39&sni=store.steampowered.com#🇨🇭 Switzerland | WorkTitans B.V. 1
-vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?type=tcp&security=reality&fp=chrome&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&sid=910aab&sni=yahoo.com#🇨🇭 Switzerland | WorkTitans B.V. 2
-vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?type=raw&security=reality&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&sid=94f9&sni=yahoo.com&spx=/#🇨🇭 Switzerland | WorkTitans B.V. 3
+vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?type=raw&security=reality&fp=chrome&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&sid=910aab&sni=yahoo.com&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560#🇨🇭 Switzerland | WorkTitans B.V. 1
+vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@5.182.36.90:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sid=0c80cc39&sni=store.steampowered.com#🇨🇭 Switzerland | WorkTitans B.V. 2
+vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?type=tcp&security=reality&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&sid=94f9&sni=yahoo.com&spx=/#🇨🇭 Switzerland | WorkTitans B.V. 3
 vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@ch2.fastlanehosting.ru:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sid=0c80cc39&sni=store.steampowered.com#🇨🇭 Switzerland | WorkTitans B.V. 4

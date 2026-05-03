@@ -5,9 +5,9 @@
 #profile-web-page-url: https://bobivpn.netlify.app/
 #announce: base64:8J+HsPCfh78gQm9iaVZQTiDigJQgS2F6YWtoc3RhbgrimqEgNiDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
 
-vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@web.luckgoodluck.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.luckgoodluck.ru#🇰🇿 Kazakhstan | ITGLOBAL.COM KZ LLP 1
-vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@176.12.79.34:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=web.googshoptwo.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#🇰🇿 Kazakhstan | Netfire TEC 1
-vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@web.googshoptwo.ru:2053?type=tcp&security=reality&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.googshoptwo.ru#🇰🇿 Kazakhstan | Netfire TEC 2
-vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6InYyZ28gfCDwn4ew8J+HvyBLWiB8IFZNRVNTIHwgMTQ2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#🇰🇿 Kazakhstan | Newserverlife 1
+vless://cf5a8e10-758c-4564-87a4-a2eeecbd5ed4@2y4x8bb.synccut.de:443?security=tls&type=ws&path=%2Fkz&host=2y4x8bb.synccut.de&allowInsecure=1&sni=2y4x8bb.synccut.de&fp=edge&encryption=none#🇰🇿 Kazakhstan | Kazakhtelecom Data Net... 1
+vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6InYyZ28gfCDwn4ew8J+HvyBLWiB8IFZNRVNTIHwgMjI5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#🇰🇿 Kazakhstan | Newserverlife 1
+vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?type=tcp&security=reality&fp=chrome&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001&sni=yahoo.com#🇰🇿 Kazakhstan | NLS ASTANA LLP 1
 vless://aaa7d2f2-a429-4480-ba1c-9a5a2de18730@212.233.72.250:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&sid=f2b78452f9233f26&packetEncoding=xudp#🇰🇿 Kazakhstan | Scalaxy B.V. 1
+vless://a4068853-1598-4f7d-b2ac-98994e5b7dfb@93.183.87.51:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=randomized&pbk=d6lUlfdAVHmSMyK3gxNJDoJoi50TQXr55WGJO5VZtGo&sid=77103c3df9ca4a7d&sni=89.img.avito.st&spx=/#🇰🇿 Kazakhstan | VK Tech Kazakhstan LLP 1
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@kz.keepsecurevpn.com:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=kz.keepsecurevpn.com&alpn=http/1.1%2Ch2#🇰🇿 Kazakhstan | WorkTitans B.V. 1
