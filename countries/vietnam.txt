@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: 🌍 BobiVPN Vietnam
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://bobivpn.netlify.app/
+#profile-web-page-url: https://bobivpn.netlify.app/
+#announce: base64:8J+MjSBCb2JpVlBOIOKAlCBWaWV0bmFtCuKaoSAxINC/0YDQvtCy0LXRgNC10L3QvdGL0YUg0YHQtdGA0LLQtdGA0L7Qsg==
+
+vless://8f8ccdc5-fe99-38d7-a8a6-422f8c88ef0a@s226.okgg.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=random&sni=a6bas226.okgg.top&host=s226.okgg.top#🌍 Vietnam | Vietnam Internet Netwo... 1
